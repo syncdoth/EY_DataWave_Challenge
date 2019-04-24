@@ -1,0 +1,3 @@
+round_epochs,val_loss,val_acc,loss,acc,lr,first_neuron,hidden_layers,batch_size,epochs,dropout,weight_regulizer,emb_output_dims,shape,optimizer,losses,activation,last_activation
+20,2.4545322864538446,0.8477157449661777,2.6714157989916094,0.8286026294574987,0.1,64,1,13,20,0.0,None,None,brick,<class 'tensorflow.python.keras.optimizers.Adam'>,<function binary_crossentropy at 0x13b7139d8>,<function tanh at 0x13c440620>,<function sigmoid at 0x13c4406a8>
+20,2.4545322853625944,0.847715727568883,3.0441380649556327,0.8111353700728395,0.1,16,1,10,20,0.0,None,None,brick,<class 'tensorflow.python.keras.optimizers.Nadam'>,<function binary_crossentropy at 0x13b7139d8>,<function tanh at 0x13c440620>,<function sigmoid at 0x13c4406a8>
