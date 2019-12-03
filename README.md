@@ -14,9 +14,9 @@ Each jupyter notebook is different versions of our source code; code 0~4 are nai
 
 ## Tech Stacks
 
-Language: Python
-Environment: Jupyter Notebook
-packages: Tensorflow Keras, Pandas, Numpy, Scikit-learn
+  * Language: Python
+  * Environment: Jupyter Notebook
+  * packages: Tensorflow Keras, Pandas, Numpy, Scikit-learn
 
 ## Methodology
 
