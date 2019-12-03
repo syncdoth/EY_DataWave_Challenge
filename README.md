@@ -14,7 +14,7 @@ Each jupyter notebook is different versions of our source code; code 0~4 are nai
 
 ### Raw data shape
 
-![alt text](http://images/raw_data.png)
+![alt text](images/raw_data.png)
 
 Given the data, grouping the data with the same hash for time series anlaysis seemed promising.
 
@@ -29,6 +29,6 @@ for example, it is more probable for a person to move toward place A when that p
 Used Keras LSTM model, as LSTM has shown advantage over RNN in vanishing/exploding gradient problem, and fits the purpose of time series forecasting very well
 
 ## Results
-![alt text](http://images/result.png)
+![alt text](images/result.png)
 
 My friend and I participated in the Hong Kong devision, and made it to the country finalist (top 10 in the country). We are proud of the fact that we made it to there, with very little prior experience on machine learning and data science. It was a great opportunity for myself to get hand-on experience on how to implement machine learning theories into code, look into documentations and communities to find specific problems, and though in high-level, self-learn to try newer technologies such as LSTM.
