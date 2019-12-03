@@ -12,6 +12,12 @@ For challenge details, please take a look at [Challenge Manual](Challenege_Manua
 
 Each jupyter notebook is different versions of our source code; code 0~4 are naive approaches, while Grouped by Hash and Time Series ~ files contain more complex ideas.
 
+## Tech Stacks
+
+Language: Python
+Environment: Jupyter Notebook
+packages: Tensorflow Keras, Pandas, Numpy, Scikit-learn
+
 ## Methodology
 
 ### Raw data shape
