@@ -6,7 +6,7 @@ This was a Data Science Challenge held by Ernest and Young. The objective was to
 
 *This is the repository used by me and my friend to collaborate.*
 
-For challenge details, please take a look at [Challenge Manual](Challenege_Manual.pdf)
+For challenge details, please take a look at [Challenge Manual](Challenge_Manual.pdf)
 
 ## Repository description
 
