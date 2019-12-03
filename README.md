@@ -28,6 +28,7 @@ for example, it is more probable for a person to move toward place A when that p
 ![alt text](images/bearing.png)
 
 After that, the features were aggregated and formatted in a way that each steps recorded in one device would be all flattened out in one line: so that they can be interpreted as to predict one exit point. Since all devices have different number of steps recorded, zero padding was added to keep the data in format.
+![alt text](images/aggregation.png)
 Then using **Scikit-learn**, the features were normalized.
 
 All the data was handled using **Pandas** dataframe, and pased to the prediction model in **Numpy** array format.
