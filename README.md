@@ -22,7 +22,8 @@ Given the data, grouping the data with the same hash for time series anlaysis se
 
 We relied on insights we had on the situation: 
 for example, it is more probable for a person to move toward place A when that person's previous moving directions were headed toward near place A. Therefore, we included the 'bearing' feature.
-![alt text](http://images/bearing.png)
+
+![alt text](images/bearing.png)
 
 ### Neural Network Model
 
